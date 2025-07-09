@@ -1,2 +1,1 @@
-# FPGATestnetPlatformTech
-Advanced FPGATestnetPlatformTech project
+.
